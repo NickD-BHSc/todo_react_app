@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+A TODO App based on a YT tutorial. Gives me hands-on experience with React JS and is a useful app for day-to-day life.
+
 ## Available Scripts
 
 In the project directory, you can run:
